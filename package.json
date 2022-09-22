@@ -1,0 +1,27 @@
+{
+	"name": "1.-nodejs-full-course-for-beginners",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Misials/NodeJS-For-Beginners.git"
+	},
+	"author": "Mikołaj Michalski",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Misials/NodeJS-For-Beginners/issues"
+	},
+	"homepage": "https://github.com/Misials/NodeJS-For-Beginners#readme",
+	"dependencies": {
+		"date-fns": "^2.29.3",
+		"uuid": "^9.0.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}
