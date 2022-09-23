@@ -1,6 +1,32 @@
-20220923	07:14:24	e4169eb3-7ed0-496d-86a1-0ec08785beb6	/new-page.html	GET
-20220923	07:14:24	bbbf9a5f-9493-432d-8bcd-f2d701115601	/css/style.css	GET
-20220923	07:14:24	2da604d2-7766-4ef8-8cf3-4728cc6e24b5	/favicon.ico	GET
-20220923	07:15:23	cf06b1d1-6a0b-4b96-9091-cac5c961372a	/new-page.html	GET
-20220923	07:15:34	ec9b4de5-b01c-4259-8b61-ef6d450f2669	/new-page.html	GET
-20220923	07:15:34	180842c4-1998-430c-8cfa-320f29fa936d	/css/style.css	GET
+20220923	19:25:53	91c1f2e5-f48d-4391-918d-0a67d8356c8d	GET	undefined	/
+20220923	19:25:53	a5a3071c-8a71-41c0-b072-a68ef38df3fe	GET	undefined	/css/style.css
+20220923	19:27:51	10cc6207-ab15-4d58-9a7f-5e04433e8d04	GET	undefined	/
+20220923	19:27:51	502c5138-f9cc-4c1a-9493-c871ed2b25d2	GET	undefined	/css/style.css
+20220923	19:28:49	53e82a61-0998-4597-8d1b-375922cbfac6	OPTIONS	https://www.google.com	/
+20220923	19:28:49	f1acfd31-0a31-442e-8e9e-dcdd9b1b93ae	GET	https://www.google.com	/
+20220923	19:30:28	38743167-490f-4b16-876f-1149e6492766	OPTIONS	https://www.google.com	/
+20220923	19:30:28	c5fc39d2-f8b4-46a1-bfba-369eacfdb5ac	GET	https://www.google.com	/
+20220923	19:35:51	2236eed7-ad60-40fb-9117-3868ad94aa05	OPTIONS	https://www.google.com	/
+20220923	19:35:51	2fedd853-f5f9-47da-922b-07dcef2dca2c	GET	https://www.google.com	/
+20220923	19:36:16	0c6704b8-2345-4ed2-8bab-384e31d3fb36	OPTIONS	https://www.google.com	/
+20220923	19:36:16	e1ae3d9f-4bce-4edf-97b3-923169016790	GET	https://www.google.com	/
+20220923	19:37:33	30ee0cb4-3161-4cc5-ab6b-211c1712f457	OPTIONS	https://www.google.com	/
+20220923	19:37:33	1f13ae74-cf21-4ead-8e1d-bd7124e15e84	GET	https://www.google.com	/
+20220923	19:40:05	9dc2392c-d97a-4c5e-89f9-b3401ddef182	GET	undefined	/
+20220923	19:40:47	32844a44-790d-4bd1-a3a7-cd8baf9a68e9	GET	undefined	/
+20220923	19:40:47	bffa0408-106c-43d2-8184-b3e6c2f3d00e	GET	undefined	/css/style.css
+20220923	19:45:08	fb3a2b74-66ef-4de6-bb5c-00bee745283b	GET	undefined	/
+20220923	19:45:49	71ce8d80-4f00-4a99-b8a6-4b898567bab8	GET	undefined	/
+20220923	19:45:49	0a3ca23d-9569-4973-8c72-0491ddc6ac47	GET	undefined	/css/style.css
+20220923	19:47:05	59b09302-9295-449f-84f6-3272911a2be4	GET	undefined	/
+20220923	19:47:05	7dc0e663-accc-42fd-bf58-83a57cbd34fe	GET	undefined	/css/style.css
+20220923	19:47:06	3b445a76-0e42-47b7-b8f3-25ff2c34c3f1	GET	undefined	/
+20220923	19:47:06	369214ac-b901-4fde-9a6f-e6471208f0c2	GET	undefined	/css/style.css
+20220923	19:47:10	538bfb12-f0d2-41ee-9654-4f7756ed59f5	GET	undefined	/jh
+20220923	19:47:10	31363916-b912-4bbe-87f8-bf6236fcf4f0	GET	undefined	/css/style.css
+20220923	19:50:10	16c1dec9-e362-4e90-a3f7-16d542c2aee6	GET	undefined	/
+20220923	19:50:10	516bd8b5-a941-44ef-8c57-bc3cd820213e	GET	undefined	/css/style.css
+20220923	19:50:12	4319e2df-c7ba-413d-a2b9-5e75d5bc1f79	GET	undefined	/kj
+20220923	19:50:12	aaa401fb-0b3b-443d-bc00-1b432da2ba34	GET	undefined	/css/style.css
+20220923	19:50:32	bb003060-2873-4df1-aa79-0a5d7f3a9a1b	GET	undefined	/kj
+20220923	19:50:33	b4ddcb74-1ef7-48e3-a5fd-f6f2776e3a63	GET	undefined	/css/style.css
