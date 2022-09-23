@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+
+body {
+	background-color: #333;
+	color: #fff;
+	font-size: 1.6rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+h1 {
+	font-size: 8rem;
+}
