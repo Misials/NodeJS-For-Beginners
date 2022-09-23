@@ -19,6 +19,7 @@
 	"homepage": "https://github.com/Misials/NodeJS-For-Beginners#readme",
 	"dependencies": {
 		"date-fns": "^2.29.3",
+		"express": "^4.18.1",
 		"uuid": "^9.0.0"
 	},
 	"devDependencies": {
