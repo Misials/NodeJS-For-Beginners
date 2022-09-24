@@ -1,7 +1,7 @@
 const bcrypt = require('bcrypt');
 const path = require('path');
 const fsPromises = require('fs').promises;
-const users = require('./../model/users.json');
+const users = require('../model/users.json');
 
 const usersDB = {
 	users: users,

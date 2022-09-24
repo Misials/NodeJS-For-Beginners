@@ -1,4 +1,4 @@
-const employeesData = require('./../model/employees.json');
+const employeesData = require('../model/employees.json');
 const data = {
 	employees: employeesData,
 	setEmployees: function (data) {
