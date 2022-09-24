@@ -1,1 +1,3 @@
 20220923	19:45:08	e52fbd6e-72a4-4217-9e80-a667614aed4d	Error: Not allowed by CORS
+20220924	06:42:38	1551f6d7-dd9e-4399-9909-bb7284e858a7	Error: ENOENT: no such file or directory, stat 'C:\Users\Mikolaj\Desktop\Future Web Developer\Courses\YouTube\1. NodeJS Full Course for Beginners\views\subidr\index.html'
+20220924	06:54:09	6db1bf9e-34f7-4ca9-905d-ad1fa39af2b5	Error: ENOENT: no such file or directory, stat 'C:\Users\Mikolaj\Desktop\Future Web Developer\Courses\YouTube\1. NodeJS Full Course for Beginners\routes\views\index.html'
