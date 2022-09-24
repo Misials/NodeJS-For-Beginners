@@ -59,9 +59,7 @@ exports.deleteEmployee = (req, res) => {
 		});
 	}
 
-	console.log(employeeIndex);
 	data.employees.splice(employeeIndex, 1);
-	console.log(data.employees);
 	res.json({ employee });
 };
 

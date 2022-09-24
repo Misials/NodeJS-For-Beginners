@@ -7,3 +7,7 @@
 20220924	09:39:36	d8e39362-a59e-4532-89f9-ef4d0d970ac9	TypeError: Cannot read properties of undefined (reading 'id')
 20220924	09:46:26	39a56870-f55b-4485-9018-9856a2474086	Error: Cannot set headers after they are sent to the client
 20220924	09:55:32	15669e0c-b00d-41fd-b600-5d87592f67c9	Error: Cannot set headers after they are sent to the client
+20220924	15:23:07	877d4f0e-ccd2-4a5e-a124-31a5d47afcaa	TypeError: allowedOrigins.includes is not a function
+20220924	15:23:58	91066e45-4d84-4e6d-b403-41c0433e9614	TypeError: allowedOrigins.includes is not a function
+20220924	15:23:59	86f725f1-4624-44fd-87d2-75e618d94ff0	TypeError: allowedOrigins.includes is not a function
+20220924	15:41:20	21dedc96-cde2-41b7-b503-f04a06e51728	TypeError: Cannot read properties of undefined (reading 'roles')
