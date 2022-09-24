@@ -6,6 +6,8 @@ const { logger } = require('./middleware/logEvents');
 const errorHandler = require('./middleware/errorHandler');
 const rootRoute = require('./routes/rootRoute');
 const employessRoute = require('./routes/api/employeesRoute');
+const registerRoute = require('./routes/registerRoute');
+const authRoute = require('./routes/authRoute');
 
 const PORT = process.env.PORT || 3500;
 const app = express();
@@ -26,6 +28,8 @@ app.use('/', express.static(path.join(__dirname, '/public')));
 // Routes
 app.use('/', rootRoute);
 app.use('/employees', employessRoute);
+app.use('/register', registerRoute);
+app.use('/auth', authRoute);
 
 // 404 Route
 app.all('*', (req, res) => {
