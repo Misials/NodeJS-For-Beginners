@@ -1,3 +1,9 @@
 20220923	19:45:08	e52fbd6e-72a4-4217-9e80-a667614aed4d	Error: Not allowed by CORS
 20220924	06:42:38	1551f6d7-dd9e-4399-9909-bb7284e858a7	Error: ENOENT: no such file or directory, stat 'C:\Users\Mikolaj\Desktop\Future Web Developer\Courses\YouTube\1. NodeJS Full Course for Beginners\views\subidr\index.html'
 20220924	06:54:09	6db1bf9e-34f7-4ca9-905d-ad1fa39af2b5	Error: ENOENT: no such file or directory, stat 'C:\Users\Mikolaj\Desktop\Future Web Developer\Courses\YouTube\1. NodeJS Full Course for Beginners\routes\views\index.html'
+20220924	09:37:32	6f19b3f7-ecc8-49f5-873b-267d8cf3984a	TypeError: Cannot read properties of undefined (reading 'id')
+20220924	09:37:35	c9c0d774-f498-48e7-b7d4-3744ef8b6f83	TypeError: Cannot read properties of undefined (reading 'id')
+20220924	09:37:50	dbb52eee-c05c-4f9e-9cc0-99f88fb55b4e	TypeError: Cannot read properties of undefined (reading 'id')
+20220924	09:39:36	d8e39362-a59e-4532-89f9-ef4d0d970ac9	TypeError: Cannot read properties of undefined (reading 'id')
+20220924	09:46:26	39a56870-f55b-4485-9018-9856a2474086	Error: Cannot set headers after they are sent to the client
+20220924	09:55:32	15669e0c-b00d-41fd-b600-5d87592f67c9	Error: Cannot set headers after they are sent to the client

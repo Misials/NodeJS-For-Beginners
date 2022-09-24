@@ -1,46 +1,30 @@
 const express = require('express');
 const path = require('path');
 const cors = require('cors');
+const corsOptions = require('./config/corsOptions');
 const { logger } = require('./middleware/logEvents');
 const errorHandler = require('./middleware/errorHandler');
 const rootRoute = require('./routes/rootRoute');
-const subdirRoute = require('./routes/subdirRoute');
 const employessRoute = require('./routes/api/employeesRoute');
 
 const PORT = process.env.PORT || 3500;
-
 const app = express();
 
 // custom middleware logger
 app.use(logger);
 
-// Cross Origin Resurce Sharing
-const whitelist = ['https://www.yoursite.com', 'http://127.0.0.1:5500', 'http://localhost:3500'];
-const corsOption = {
-	origin: (origin, callback) => {
-		if (whitelist.indexOf(origin) !== -1 || !origin) {
-			callback(null, true);
-		} else {
-			callback(new Error('Not allowed by CORS'));
-		}
-	},
-	optionsSuccessStatus: 200,
-};
-app.use(cors(corsOption));
+// Cross Origin Resource Sharing
+app.use(cors(corsOptions));
 
 // Built-in middleware
-
 app.use(express.urlencoded({ extended: false }));
-
 app.use(express.json());
 
 // serve static files
 app.use('/', express.static(path.join(__dirname, '/public')));
-app.use('/subdir', express.static(path.join(__dirname, '/public')));
 
 // Routes
 app.use('/', rootRoute);
-app.use('/subdir', subdirRoute);
 app.use('/employees', employessRoute);
 
 // 404 Route
