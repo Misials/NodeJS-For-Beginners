@@ -395,3 +395,15 @@
 20220925	09:07:53	1b241323-3a1d-4327-9a28-9240d9bb3445	GET	undefined	/employees/632ff7bde08e84f98c6570cb
 20220925	09:08:18	cef82d4a-c0ed-496b-9aeb-ba301bbacf1c	POST	undefined	/auth
 20220925	09:08:26	7bf5e718-16fe-4cd6-8b10-4809c749a721	POST	undefined	/employees
+20220925	12:01:07	673b044c-24ee-4229-9308-a4706205f897	GET	undefined	/users
+20220925	12:07:45	63cba25f-571c-458a-ae9b-67c877c2214b	GET	undefined	/users/632fe65bc0d393aea5a2b079
+20220925	12:08:40	cdced35a-9f07-40f7-a5f4-c2bf65be78cd	GET	undefined	/users/632fe65bc0d393aea5a2b079
+20220925	12:17:00	16d9cf78-5e4a-450d-90e8-0571fa18f0fa	POST	undefined	/users
+20220925	12:17:20	addaf1d4-483f-44cb-afe8-572072dd9264	POST	undefined	/users
+20220925	12:18:06	68a08093-e3a4-403b-8638-3fe3fa2afd7e	POST	undefined	/users
+20220925	12:19:53	e8704829-c130-4d5d-a28a-1672adfd9c66	POST	undefined	/users
+20220925	12:28:41	61c95728-04dd-4ffe-bcf2-5bfb019fe216	PUT	undefined	/users
+20220925	12:31:42	0a2b8071-4c6a-496c-80f4-35044437049e	DELETE	undefined	/users
+20220925	12:32:21	3836fa19-9267-4959-94f8-0c969dacc9c5	GET	undefined	/users
+20220925	12:32:24	485f0d71-116a-40d5-ba9e-b4f19a20584b	POST	undefined	/auth
+20220925	12:32:32	97b3c6c5-4d8a-48fb-9d2e-190e4279cfd0	GET	undefined	/users

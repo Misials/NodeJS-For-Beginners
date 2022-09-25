@@ -9,6 +9,7 @@ const { logger } = require('./middleware/logEvents');
 const errorHandler = require('./middleware/errorHandler');
 const rootRoute = require('./routes/rootRoute');
 const employessRoute = require('./routes/api/employeesRoute');
+const userRoute = require('./routes/api/usersRoute');
 const registerRoute = require('./routes/registerRoute');
 const authRoute = require('./routes/authRoute');
 const verifyJWT = require('./middleware/verifyJWT');
@@ -51,6 +52,7 @@ app.use('/logout', logoutRoute);
 
 app.use(verifyJWT);
 app.use('/employees', employessRoute);
+app.use('/users', userRoute);
 
 // 404 Route
 app.all('*', (req, res) => {
