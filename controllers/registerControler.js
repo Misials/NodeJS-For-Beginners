@@ -20,8 +20,6 @@ exports.handleNewUser = async (req, res) => {
 			password: hashedPwd,
 		});
 
-		console.log(result);
-
 		res.status(201).json({ message: `New user ${user} was created!` });
 	} catch (err) {
 		res.status(500).json({ message: err.message });
