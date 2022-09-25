@@ -1,5 +1,4 @@
 const jwt = require('jsonwebtoken');
-require('dotenv').config();
 const bcrypt = require('bcrypt');
 const path = require('path');
 const fsPromises = require('fs').promises;

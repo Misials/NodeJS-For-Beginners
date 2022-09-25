@@ -1,5 +1,4 @@
 const jwt = require('jsonwebtoken');
-require('dotenv').config();
 const users = require('../model/users.json');
 
 const usersDB = {
