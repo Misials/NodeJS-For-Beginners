@@ -334,3 +334,12 @@
 20220924	15:58:32	34c02428-3ef0-4e86-bfe5-3a33416fc0fe	POST	undefined	/employees
 20220924	16:00:10	cb17c031-8bac-4e36-9ed1-0854778fa3b6	POST	undefined	/auth
 20220924	16:00:15	b8962b16-2c29-43a8-9950-f5fb3dc2a62b	POST	undefined	/employees
+20220925	07:23:55	45f31037-1215-42ec-880d-8746d78b955b	GET	undefined	/
+20220925	07:23:55	c725be07-2547-4cf9-9ed9-5fb6a3ec12a9	GET	undefined	/css/style.css
+20220925	07:23:55	f5768f8d-d320-40fc-9398-c3e2e3cae387	GET	undefined	/favicon.ico
+20220925	07:24:13	e96f1a01-4ba8-442b-b2ec-8436b86d5a38	GET	undefined	/employees
+20220925	07:24:20	b81a5d36-4623-4d09-b838-eb7cf7439fb1	POST	undefined	/auth
+20220925	07:24:28	bcd58659-4945-456e-943d-e670ade7dc1c	GET	undefined	/employees
+20220925	07:25:46	4ae5b3c0-a11d-42d9-917b-0b5b59c4b37a	POST	undefined	/register
+20220925	07:26:37	cd3a9ada-9e64-4f3e-a578-cbdf2d2773c7	POST	undefined	/register
+20220925	07:26:47	c9eec5e1-9ea8-4341-bc98-d3592bce2659	POST	undefined	/register
